@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eeeeee;
+}
+
+main {
+    background-image: url(/images.jpg/blackholestar.jpg);
+    height: 25rem;
+    width: 30rem;
+    color: white;
+    border-radius: 10px;
+}
+
+.countdown-container span {
+    margin: 1.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.big-text {
+    margin: 1rem;
+    font-size: 3rem;
+    font-weight: bolder;
+    padding: 5px;
+}
+
+.countdown-container {
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
